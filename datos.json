@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "savedAt": "2026-03-05T09:52:33.773Z",
+  "savedAt": "2026-03-05T11:54:12.700Z",
   "savedBy": "CRM_AF_Web",
   "DB": {
     "clientes": [
@@ -22,7 +22,7 @@
         "contacto": "Responsable compras",
         "tel": "977-XXX-001",
         "email": "montal@montal.es",
-        "notas": "Cliente crítico. Contacto semanal OBLIGATORIO. Nunca bajar de 40K/mes. Alerta si 2 semanas sin pedido. Riesgo concentración: no superar 25% cartera."
+        "notas": "Cliente crÃ­tico. Contacto semanal OBLIGATORIO. Nunca bajar de 40K/mes. Alerta si 2 semanas sin pedido. Riesgo concentraciÃ³n: no superar 25% cartera."
       },
       {
         "id": 2,
@@ -39,10 +39,10 @@
         "ene26": 10526,
         "feb26": 28693,
         "obj2026": 200000,
-        "contacto": "Director técnico",
+        "contacto": "Director tÃ©cnico",
         "tel": "977-XXX-002",
         "email": "ferruz@ferruz.es",
-        "notas": "Explosión feb 2026 (28.693€). Motor de crecimiento clave. Reunión presencial para asegurar continuidad proyectos. Ampliar gama suministrada."
+        "notas": "ExplosiÃ³n feb 2026 (28.693â¬). Motor de crecimiento clave. ReuniÃ³n presencial para asegurar continuidad proyectos. Ampliar gama suministrada."
       },
       {
         "id": 3,
@@ -62,7 +62,7 @@
         "contacto": "Gerente",
         "tel": "977-XXX-003",
         "email": "aceral@aceral.es",
-        "notas": "Crecimiento sostenido. Triplicando vs 2024. Ampliar gama productos suministrados. Fidelización por volumen."
+        "notas": "Crecimiento sostenido. Triplicando vs 2024. Ampliar gama productos suministrados. FidelizaciÃ³n por volumen."
       },
       {
         "id": 4,
@@ -79,10 +79,10 @@
         "ene26": 18716,
         "feb26": 8200,
         "obj2026": 150000,
-        "contacto": "Jefe producción",
+        "contacto": "Jefe producciÃ³n",
         "tel": "977-XXX-004",
         "email": "goded@lasergoded.es",
-        "notas": "Subida ene, bajada feb. Investigar estacionalidad. Mantener relación estrecha. Chapa aluminio para corte láser."
+        "notas": "Subida ene, bajada feb. Investigar estacionalidad. Mantener relaciÃ³n estrecha. Chapa aluminio para corte lÃ¡ser."
       },
       {
         "id": 5,
@@ -122,7 +122,7 @@
         "contacto": "Compras",
         "tel": "977-XXX-006",
         "email": "soal@soal.es",
-        "notas": "Cliente estable. Buscar incremento en chapas y productos complementarios. También en cartera Juan (cód 30)."
+        "notas": "Cliente estable. Buscar incremento en chapas y productos complementarios. TambiÃ©n en cartera Juan (cÃ³d 30)."
       },
       {
         "id": 7,
@@ -142,7 +142,7 @@
         "contacto": "Gerente",
         "tel": "977-XXX-007",
         "email": "esquivel@esquivel.es",
-        "notas": "Irregularidad: 560€ ene vs 18.892€ feb. Entender patrón de compra. Puede ser proyectos."
+        "notas": "Irregularidad: 560â¬ ene vs 18.892â¬ feb. Entender patrÃ³n de compra. Puede ser proyectos."
       },
       {
         "id": 8,
@@ -162,7 +162,7 @@
         "contacto": "Responsable",
         "tel": "977-XXX-008",
         "email": "voltes@voltes.es",
-        "notas": "Nuevo motor. Era marginal (761€ en 2024). +12206% ritmo. Consolidar y ampliar. Vigilar saldo pendiente."
+        "notas": "Nuevo motor. Era marginal (761â¬ en 2024). +12206% ritmo. Consolidar y ampliar. Vigilar saldo pendiente."
       },
       {
         "id": 9,
@@ -202,7 +202,7 @@
         "contacto": "Director",
         "tel": "977-XXX-010",
         "email": "tot@tottarragona.es",
-        "notas": "Caída desde 128K (2024). -49%. Investigar si es pérdida de proyectos o competencia. Reunión trimestral."
+        "notas": "CaÃ­da desde 128K (2024). -49%. Investigar si es pÃ©rdida de proyectos o competencia. ReuniÃ³n trimestral."
       },
       {
         "id": 11,
@@ -227,7 +227,7 @@
       {
         "id": 12,
         "codigo": "0234",
-        "nombre": "MASIÀ S.A. VIDRIOS Y CRISTALES",
+        "nombre": "MASIÃ S.A. VIDRIOS Y CRISTALES",
         "segmento": "vidrio",
         "bloque": "B",
         "estado": "recuperar",
@@ -242,7 +242,7 @@
         "contacto": "Gerente",
         "tel": "977-XXX-012",
         "email": "masia@masiasa.es",
-        "notas": "⚠ URGENTE. 6to cliente 2024. 0€ en 2026. Contacto telefónico semana 1 marzo. Objetivo recuperación 30K€."
+        "notas": "â  URGENTE. 6to cliente 2024. 0â¬ en 2026. Contacto telefÃ³nico semana 1 marzo. Objetivo recuperaciÃ³n 30Kâ¬."
       },
       {
         "id": 13,
@@ -262,7 +262,7 @@
         "contacto": "Director",
         "tel": "977-XXX-013",
         "email": "satech@sactech.es",
-        "notas": "Caída -58%. Llamada urgente esta semana. Entender motivo pérdida volumen."
+        "notas": "CaÃ­da -58%. Llamada urgente esta semana. Entender motivo pÃ©rdida volumen."
       },
       {
         "id": 14,
@@ -282,7 +282,7 @@
         "contacto": "Decisor compras",
         "tel": "977-XXX-014",
         "email": "aquatall@aquatall.es",
-        "notas": "🚨 EMERGENCIA. Corte por chorro de agua. 0→9.482€(2024)→108.424€(2025)→0€(2026). Llamada ESTA SEMANA. Script: \"Hemos notado que no hemos tenido actividad en los últimos 2 meses. ¿Ha habido algún cambio en sus necesidades de aluminio?\""
+        "notas": "ð¨ EMERGENCIA. Corte por chorro de agua. 0â9.482â¬(2024)â108.424â¬(2025)â0â¬(2026). Llamada ESTA SEMANA. Script: \"Hemos notado que no hemos tenido actividad en los Ãºltimos 2 meses. Â¿Ha habido algÃºn cambio en sus necesidades de aluminio?\""
       },
       {
         "id": 15,
@@ -299,10 +299,10 @@
         "ene26": 807,
         "feb26": 0,
         "obj2026": 8000,
-        "contacto": "Sr. Valentín",
+        "contacto": "Sr. ValentÃ­n",
         "tel": "977-XXX-015",
         "email": "",
-        "notas": "Caída -77%. Contacto urgente marzo."
+        "notas": "CaÃ­da -77%. Contacto urgente marzo."
       },
       {
         "id": 16,
@@ -322,7 +322,7 @@
         "contacto": "J. Esteban",
         "tel": "977-XXX-016",
         "email": "",
-        "notas": "Caída -93%. Contactar urgente semana 1 marzo."
+        "notas": "CaÃ­da -93%. Contactar urgente semana 1 marzo."
       },
       {
         "id": 17,
@@ -342,7 +342,7 @@
         "contacto": "Compras",
         "tel": "977-XXX-017",
         "email": "",
-        "notas": "Caída -65%. Investigar motivo."
+        "notas": "CaÃ­da -65%. Investigar motivo."
       },
       {
         "id": 18,
@@ -362,7 +362,7 @@
         "contacto": "Gerente",
         "tel": "977-XXX-018",
         "email": "",
-        "notas": "Caída -82%. Contacto urgente abril."
+        "notas": "CaÃ­da -82%. Contacto urgente abril."
       },
       {
         "id": 19,
@@ -382,7 +382,7 @@
         "contacto": "Director",
         "tel": "977-XXX-019",
         "email": "",
-        "notas": "Caída -51%. Contacto telefónico."
+        "notas": "CaÃ­da -51%. Contacto telefÃ³nico."
       },
       {
         "id": 20,
@@ -402,7 +402,7 @@
         "contacto": "Compras",
         "tel": "977-XXX-020",
         "email": "",
-        "notas": "Caída -79%. Llamada semana 2 marzo."
+        "notas": "CaÃ­da -79%. Llamada semana 2 marzo."
       },
       {
         "id": 21,
@@ -422,7 +422,7 @@
         "contacto": "Gerente",
         "tel": "977-XXX-021",
         "email": "",
-        "notas": "Caída -55%. Seguimiento mensual."
+        "notas": "CaÃ­da -55%. Seguimiento mensual."
       },
       {
         "id": 22,
@@ -482,7 +482,7 @@
         "contacto": "Gerente",
         "tel": "977-XXX-024",
         "email": "",
-        "notas": "Requiere investigación conjunta Daniel-Juan. En cód 80+30 2024 aparecía con 289.065€. Determinar potencial real."
+        "notas": "Requiere investigaciÃ³n conjunta Daniel-Juan. En cÃ³d 80+30 2024 aparecÃ­a con 289.065â¬. Determinar potencial real."
       },
       {
         "id": 25,
@@ -499,7 +499,7 @@
         "ene26": 632,
         "feb26": 2493,
         "obj2026": 15000,
-        "contacto": "Dirección",
+        "contacto": "DirecciÃ³n",
         "tel": "977-XXX-025",
         "email": "",
         "notas": "Cliente estable. Seguimiento mensual."
@@ -507,7 +507,7 @@
       {
         "id": 26,
         "codigo": "0700",
-        "nombre": "DISEÑO INTEGRAL SISTEMAS, S.L.",
+        "nombre": "DISEÃO INTEGRAL SISTEMAS, S.L.",
         "segmento": "construccion",
         "bloque": "A",
         "estado": "inactivo",
@@ -542,7 +542,7 @@
         "contacto": "Sr. Linares",
         "tel": "977-XXX-027",
         "email": "",
-        "notas": "Carrocerías aluminio. Potencial de crecimiento."
+        "notas": "CarrocerÃ­as aluminio. Potencial de crecimiento."
       },
       {
         "id": 28,
@@ -562,7 +562,7 @@
         "contacto": "Gerente",
         "tel": "977-XXX-028",
         "email": "",
-        "notas": "Nuevo cliente feb 2026. Saldo pendiente 5.263€. Fidelizar."
+        "notas": "Nuevo cliente feb 2026. Saldo pendiente 5.263â¬. Fidelizar."
       }
     ],
     "interacciones": [
@@ -585,7 +585,7 @@
         "fecha": "2026-03-04",
         "resultado": "no_contacto",
         "importe": 0,
-        "nota": "No responde. Dejar mensaje en buzón. Intentar contacto responsable compras.",
+        "nota": "No responde. Dejar mensaje en buzÃ³n. Intentar contacto responsable compras.",
         "nextAction": "Reintentar 06/03"
       },
       {
@@ -607,7 +607,7 @@
         "fecha": "2026-03-02",
         "resultado": "positivo",
         "importe": 0,
-        "nota": "Confirmado reunión presencial semana 2 marzo. Interesados en ampliar gama perfiles.",
+        "nota": "Confirmado reuniÃ³n presencial semana 2 marzo. Interesados en ampliar gama perfiles.",
         "nextAction": "Visita presencial 11/03"
       },
       {
@@ -629,7 +629,7 @@
         "fecha": "2026-03-03",
         "resultado": "neutro",
         "importe": 0,
-        "nota": "Han reducido producción Q1. Prevén recuperar volumen abril-mayo.",
+        "nota": "Han reducido producciÃ³n Q1. PrevÃ©n recuperar volumen abril-mayo.",
         "nextAction": "Llamada seguimiento 01/04"
       },
       {
@@ -640,7 +640,7 @@
         "fecha": "2026-03-02",
         "resultado": "pendiente",
         "importe": 15000,
-        "nota": "Presupuesto perfiles estructurales proyecto Tarragona. Decisión esta semana.",
+        "nota": "Presupuesto perfiles estructurales proyecto Tarragona. DecisiÃ³n esta semana.",
         "nextAction": "Seguimiento 07/03"
       },
       {
@@ -651,8 +651,8 @@
         "fecha": "2026-02-28",
         "resultado": "neutro",
         "importe": 0,
-        "nota": "Han perdido dos contratos de obra grandes. Competencia con precio 8% inferior. Mantener relación para cuando recuperen.",
-        "nextAction": "Reunión trimestral junio"
+        "nota": "Han perdido dos contratos de obra grandes. Competencia con precio 8% inferior. Mantener relaciÃ³n para cuando recuperen.",
+        "nextAction": "ReuniÃ³n trimestral junio"
       },
       {
         "id": 9,
@@ -662,7 +662,7 @@
         "fecha": "2026-03-01",
         "resultado": "positivo",
         "importe": 0,
-        "nota": "Enero pico por proyecto especial ya cerrado. Febrero normal. Prevén proyecto nuevo Q2.",
+        "nota": "Enero pico por proyecto especial ya cerrado. Febrero normal. PrevÃ©n proyecto nuevo Q2.",
         "nextAction": "Llamar seguimiento 15/03"
       },
       {
@@ -675,6 +675,17 @@
         "importe": 7800,
         "nota": "Pedido recurrente. Cliente consolidado como motor de crecimiento.",
         "nextAction": "Mantener contacto mensual"
+      },
+      {
+        "id": 11,
+        "clienteId": 1,
+        "tipo": "llamada",
+        "responsable": "80",
+        "fecha": "2026-03-05",
+        "resultado": "positivo",
+        "importe": 0,
+        "nota": "Sin nota",
+        "nextAction": ""
       }
     ],
     "ofertas": [
@@ -693,7 +704,7 @@
         "id": 2,
         "clienteId": 2,
         "bloque": "C",
-        "descripcion": "Ampliación gama chapas industriales 2-8mm",
+        "descripcion": "AmpliaciÃ³n gama chapas industriales 2-8mm",
         "importe": 28000,
         "prob": 65,
         "fechaEnvio": "2026-03-01",
@@ -715,7 +726,7 @@
         "id": 4,
         "clienteId": 14,
         "bloque": "B",
-        "descripcion": "Propuesta reactivación — chapa aluminio 1050 y 5083",
+        "descripcion": "Propuesta reactivaciÃ³n â chapa aluminio 1050 y 5083",
         "importe": 12000,
         "prob": 40,
         "fechaEnvio": "2026-03-04",
@@ -737,7 +748,7 @@
         "id": 6,
         "clienteId": 24,
         "bloque": "A",
-        "descripcion": "Chapa estriada + perfiles carrocería",
+        "descripcion": "Chapa estriada + perfiles carrocerÃ­a",
         "importe": 7200,
         "prob": 50,
         "fechaEnvio": "2026-02-28",
@@ -748,7 +759,7 @@
         "id": 7,
         "clienteId": 12,
         "bloque": "B",
-        "descripcion": "Propuesta recuperación — chapas + composite",
+        "descripcion": "Propuesta recuperaciÃ³n â chapas + composite",
         "importe": 8500,
         "prob": 30,
         "fechaEnvio": "2026-03-05",
@@ -770,15 +781,15 @@
     "acciones": [
       {
         "id": 1,
-        "desc": "Llamar a AQUATALL — entender parada total",
+        "desc": "Llamar a AQUATALL â entender parada total",
         "resp": "80",
         "plazo": "S1 marzo",
-        "kpi": "Conseguir reunión o pedido",
+        "kpi": "Conseguir reuniÃ³n o pedido",
         "estado": "pendiente"
       },
       {
         "id": 2,
-        "desc": "Llamar a MASIÀ VIDRIOS — 59K€ en 2024, 0€ en 2026",
+        "desc": "Llamar a MASIÃ VIDRIOS â 59Kâ¬ en 2024, 0â¬ en 2026",
         "resp": "80",
         "plazo": "S1 marzo",
         "kpi": "Identificar motivo de baja",
@@ -786,7 +797,7 @@
       },
       {
         "id": 3,
-        "desc": "Contactar VALENTIN PEREZ — caída 77%",
+        "desc": "Contactar VALENTIN PEREZ â caÃ­da 77%",
         "resp": "80",
         "plazo": "S1 marzo",
         "kpi": "Reactivar pedido",
@@ -794,7 +805,7 @@
       },
       {
         "id": 4,
-        "desc": "Contactar MONZA J. ESTEBAN — caída 93%",
+        "desc": "Contactar MONZA J. ESTEBAN â caÃ­da 93%",
         "resp": "80",
         "plazo": "S1 marzo",
         "kpi": "Reactivar pedido",
@@ -802,7 +813,7 @@
       },
       {
         "id": 5,
-        "desc": "Reunión presencial OLEOHIDRAULICA FERRUZ",
+        "desc": "ReuniÃ³n presencial OLEOHIDRAULICA FERRUZ",
         "resp": "80",
         "plazo": "S2 marzo",
         "kpi": "Consolidar nivel feb (28K)",
@@ -810,15 +821,15 @@
       },
       {
         "id": 6,
-        "desc": "Llamar SATECH LASER — caída 58%",
+        "desc": "Llamar SATECH LASER â caÃ­da 58%",
         "resp": "80",
         "plazo": "S1 marzo",
-        "kpi": "Entender motivo caída",
+        "kpi": "Entender motivo caÃ­da",
         "estado": "completado"
       },
       {
         "id": 7,
-        "desc": "Llamar INOXIDABLES LAPUENTE — caída 79%",
+        "desc": "Llamar INOXIDABLES LAPUENTE â caÃ­da 79%",
         "resp": "80",
         "plazo": "S2 marzo",
         "kpi": "Recuperar frecuencia",
@@ -826,7 +837,7 @@
       },
       {
         "id": 8,
-        "desc": "Contacto semanal MONTAL — mantener 40K+/mes",
+        "desc": "Contacto semanal MONTAL â mantener 40K+/mes",
         "resp": "80",
         "plazo": "Permanente",
         "kpi": "No bajar de 40K/mes",
@@ -834,7 +845,7 @@
       },
       {
         "id": 9,
-        "desc": "Fidelizar VOLTES CONNECTA — nuevo motor",
+        "desc": "Fidelizar VOLTES CONNECTA â nuevo motor",
         "resp": "80",
         "plazo": "S2 marzo",
         "kpi": "Mantener 7-8K/mes",
@@ -850,7 +861,7 @@
       },
       {
         "id": 11,
-        "desc": "Revisar facturas top 10 → detectar venta cruzada",
+        "desc": "Revisar facturas top 10 â detectar venta cruzada",
         "resp": "30",
         "plazo": "S1-S2 marzo",
         "kpi": "Listado oportunidades",
@@ -858,7 +869,7 @@
       },
       {
         "id": 12,
-        "desc": "Elaborar listado 20 empresas corte láser Cataluña",
+        "desc": "Elaborar listado 20 empresas corte lÃ¡ser CataluÃ±a",
         "resp": "30",
         "plazo": "S2 marzo",
         "kpi": "Listado cualificado",
@@ -866,7 +877,7 @@
       },
       {
         "id": 13,
-        "desc": "Preparar comparativa técnica vs competencia",
+        "desc": "Preparar comparativa tÃ©cnica vs competencia",
         "resp": "80+30",
         "plazo": "S3 marzo",
         "kpi": "Documento utilizable",
@@ -885,7 +896,7 @@
         "desc": "Primer informe viernes con datos reales",
         "resp": "80",
         "plazo": "7 de marzo",
-        "kpi": "Entregado a dirección",
+        "kpi": "Entregado a direcciÃ³n",
         "estado": "programado"
       }
     ],
